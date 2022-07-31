@@ -1,0 +1,10 @@
+这里我参考非交互式Schnorr协议流程：
+·证明者：均匀随机选择r，并依次计算：
+    R=rG
+    c=Hash(R,PK)
+    z=r+csk
+    证明者：生成证明(R,z)
+
+·验证者：计算e=Hash(PK,R)
+ 验证者：验证zG?==R+cPK
+ 上面的过程中，令证明者的私钥就是grade，PK=sk*G.
