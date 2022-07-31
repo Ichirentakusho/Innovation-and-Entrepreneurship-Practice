@@ -2,6 +2,7 @@
 无小组，单独完成
 第一个项目是SM3的优化实现，并且运用生日攻击尝试攻击，但是因为攻击全部的256比特我的电脑跑不出来，所以我只碰撞了前32bit
 ![Image text]https://github.com/Ichirentakusho/Innovation-and-Entrepreneurship-Practice/blob/main/1.png
+![Image text]https://github.com/Ichirentakusho/Innovation-and-Entrepreneurship-Practice/blob/main/1%E7%9A%84%E7%BB%93%E6%9E%9C.png
 第二个项目是非交互零知识证明，具体是像雇主证明我的英语六级通过了考试，但不告诉具体的分数
 ![Image text]https://github.com/Ichirentakusho/Innovation-and-Entrepreneurship-Practice/blob/main/2.jpg
 其他的项目有些因为家里的电脑无法安装openssl而无法完成，有些是太过复杂不会写。
